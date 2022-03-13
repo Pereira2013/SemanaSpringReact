@@ -5,6 +5,7 @@ export type Movie = {
     title: string;
     score: number;
     image: string;
+    count: number;
 }
 
 export type MoviePage = {
